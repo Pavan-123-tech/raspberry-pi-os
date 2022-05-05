@@ -56,4 +56,3 @@ For more information about project goals and history, please read the [Introduct
 * **Lesson 10: Drivers** (To be done)
 * **Lesson 11: Networking** (To be done)
 
-<h1>Thank you !!!</h1>
